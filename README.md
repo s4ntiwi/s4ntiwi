@@ -16,7 +16,7 @@
 &emsp;
 &emsp;
 
-## 🛠️ Mis Skills
+## 🛠️ Mis SkilLS
 -------------------
 ### Programming languages:
 &emsp;
@@ -26,52 +26,37 @@
 &emsp;
 
 &emsp;
-🔍 Conocimientos en Seguridad y Pentesting
+🔍Conocimientos en Seguridad y Pentesting
 
 Reconocimiento y Enumeración:
 
 Escaneo de red con Nmap y Masscan.
-
 Enumeración de servicios con Netcat, Gobuster y dirb.
-
 Análisis de subdominios y DNS con Subfinder, Amass y Nslookup.
-
 Análisis de Vulnerabilidades:
-
 Uso de herramientas como Nessus, OpenVAS.
-
 Identificación de servicios expuestos y análisis de versiones.
-
 Fingerprinting de sistemas operativos y tecnologías web.
 
 Explotación de Vulnerabilidades:
 
 Uso de Metasploit y Exploit-DB para pruebas de explotación.
-
 Creación y modificación de exploits en Python y Bash.
-
 Ataques a servicios mal configurados (FTP, SMB, RDP, etc.).
 
 Post-explotación y Persistencia:
 
 Escalada de privilegios en sistemas Windows y Linux.
-
 Uso de Mimikatz, BloodHound y Empire para movimientos laterales.
-
 Creación de backdoors y persistencia en entornos comprometidos.
 
 Análisis de Aplicaciones Web:
-
 Pruebas de inyección SQL con SQLmap y manualmente.
-
 Ataques OWASP TOP 10 en aplicaciones web.
 
 Criptografía y OSINT:
-
 Cracking de hashes con Hashcat y John The Ripper.
-
 OSINT con TheHarvester, Maltego y Sherlock.
-
 Ingeniería social y análisis de metadatos en documentos.
 
 
