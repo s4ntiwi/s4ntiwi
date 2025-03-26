@@ -1,12 +1,9 @@
 <h1 align="center">Hola 👋, Soy SANTI</h1>
-
 <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
 -------------------
 &emsp;
 <h3 align="left">Hola👋, Soy Santi, estudiante en ingenieria en ciberseguridad y mi pasión es el pentesting y read team.</h3>
 &emsp;
-
 -------------------
 &emsp;
 
