@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hola👋, Soy Santi, estudiante en ingenieria en ciberseguridad. Mi pasión es el pentesting y read team.</h3>
+<h3 align="left">Hola👋, Soy Santi, estudiante en ingenieria en ciberseguridad y mi pasión es el pentesting y read team.</h3>
 &emsp;
 
 -------------------
@@ -12,43 +12,11 @@
 
 - 🔭 En mi tiempo estoy trabajando en  la creacion de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
 - 📚 Academicamente estoy estudiando una carrera universataria en ciberseguridad para aumentar mis conocmientos en el campo y obtener un titulo formal.
-- 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), eWPT y BSCP**
-[Berkeli](https://github.com/Berkeli)
+- 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eWPT](https://security.ine.com/certifications/ewpt-certification/) y [BSCP](https://portswigger.net/web-security/certification)**
+&emsp;
 &emsp;
 
-## Me around the web:
--------------------
-
-
-&emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
-
-&emsp;
-
-## 🛠️ My Skills
+## 🛠️ Mis Skills
 -------------------
 ### Programming languages:
 &emsp;
