@@ -162,4 +162,4 @@ Invoke-Obfuscation – Ofuscación de scripts en PowerShell.
 
 ------
 Credit: [S4ntiwi](https://github.com/S4ntiwi)
-Last Edited on: 02/01/2023
+Last Edited on: 26/03/2025
