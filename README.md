@@ -76,9 +76,13 @@ Nikto – Escaneo de seguridad en servidores web.
 
 🎯 Explotación de Vulnerabilidades
 Metasploit – Marco de explotación avanzada.
+
 Exploit-DB – Base de datos de exploits públicos.
+
 Searchsploit – Herramienta CLI para Exploit-DB.
+
 Sqlmap – Automatización de SQL Injection.
+
 Commix – Explotación de inyecciones en comandos (Command Injection).
 
 🏴‍☠️ Post-explotación y Persistencia
@@ -89,7 +93,9 @@ Chisel – Creación de túneles y bypass de firewalls.
 
 🌐 Pruebas de Seguridad Web
 Burp Suite – Análisis y explotación de aplicaciones web.
+
 XSStrike – Detección y explotación de XSS.
+
 Wfuzz – Fuerza bruta de parámetros web.
 
 🔑 Criptografía y Fuerza Bruta
@@ -110,13 +116,6 @@ CrackMapExec – Automatización de ataques a redes Windows.
 Veil – Generación de payloads indetectables.
 Unicorn – Payloads para bypass de antivirus.
 Invoke-Obfuscation – Ofuscación de scripts en PowerShell.
-
-
-## 📈 My GitHub Stats and Activity
-
-### 🔥 Streak Stats
-
-### 📊 Contribution Stats
 
 ------
 Credit: [S4ntiwi](https://github.com/S4ntiwi)
