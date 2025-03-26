@@ -25,6 +25,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 &emsp;
 
+##Conocimientos de pentesting:
+
+
+## Herramientas de pentesting:
+BurpSuite, Nmap, Wfuzz, Hydra, JohntheRipper, Metasploit, SQLMAP.....
+
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
