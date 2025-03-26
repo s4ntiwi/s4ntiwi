@@ -10,13 +10,10 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 Estoy actualmente estudiando **Certificaciones dedicadas el readteam como la eJPT, eWPT y BSCP**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
-
+- 🔭 En mi tiempo estoy trabajando en  la creacion de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
+- 📚 Academicamente estoy estudiando una carrera universataria en ciberseguridad para aumentar mis conocmientos en el campo y obtener un titulo formal.
+- 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), eWPT y BSCP**
+[Berkeli](https://github.com/Berkeli)
 &emsp;
 
 ## Me around the web:
