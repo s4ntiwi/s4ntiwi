@@ -5,8 +5,8 @@
 &emsp;
 &emsp;
 
-- 🔭 En mi tiempo estoy trabajando en  la creacion de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
-- 📚 Academicamente estoy estudiando una carrera universitaria en ciberseguridad para aumentar mis conocmientos en el campo y obtener un titulo formal.
+- 🔭 Parte de mi tiempo la dedico a la creación de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
+- 📚 Academicamente estoy estudiando una carrera universitaria en ciberseguridad para aumentar mis conocimientos en el campo y obtener un titulo formal.
 - 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eWPT](https://security.ine.com/certifications/ewpt-certification/) y [BSCP](https://portswigger.net/web-security/certification)**
 
 -------------------------------------------------------------------
