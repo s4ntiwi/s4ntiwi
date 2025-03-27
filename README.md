@@ -11,8 +11,11 @@
 - 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eWPT](https://security.ine.com/certifications/ewpt-certification/) y [BSCP](https://portswigger.net/web-security/certification)**
 
 &emsp;
+
 &emsp;
+
 👋 Sobre mí
+
 Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconocimiento, explotación de vulnerabilidades y post-explotación en entornos Windows, Linux y aplicaciones web.
 
 🔍 **Especialidades**:
