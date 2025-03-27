@@ -13,6 +13,7 @@
 👋 Sobre mí
 
 Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconocimiento, explotación de vulnerabilidades y post-explotación en entornos Windows, Linux y aplicaciones web.
+
 -------------------------------------------------------------------
 
 🔍 **Especialidades**:
