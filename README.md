@@ -28,8 +28,8 @@ Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconoc
 **OSINT y cracking**: Recolección de información y análisis de credenciales.
 
 🛠 Herramientas principales:
-
 Nmap, Burp Suite, Metasploit, BloodHound, SQLmap, Hashcat, Hydra, John the Ripper, Gobuster, Nikto, CrackMapExec, y más..
+
 ---------------
 🚀 Siempre aprendiendo y mejorando mis habilidades en plataformas como Hack The Box, TryHackMe y CTFs.
 
