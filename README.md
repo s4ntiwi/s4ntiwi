@@ -1,18 +1,16 @@
 <h1 align="center">Hola 👋, Soy SANTI</h1>
-
 -------------------
 &emsp;
 <h3 align="left">Hola👋, Soy Santi, estudiante en ingenieria en ciberseguridad y mi pasión es el pentesting y read team.</h3>
 &emsp;
 -------------------
 &emsp;
-
 - 🔭 En mi tiempo estoy trabajando en  la creacion de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
 - 📚 Academicamente estoy estudiando una carrera universitaria en ciberseguridad para aumentar mis conocmientos en el campo y obtener un titulo formal.
 - 🌱 Para complementar mis estudios actualmente estoy preparandome para **Certificaciones dedicadas el readteam como la [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eWPT](https://security.ine.com/certifications/ewpt-certification/) y [BSCP](https://portswigger.net/web-security/certification)**
-&emsp;
-&emsp;
 
+&emsp;
+&emsp;
 👋 Sobre mí
 Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconocimiento, explotación de vulnerabilidades y post-explotación en entornos Windows, Linux y aplicaciones web.
 
