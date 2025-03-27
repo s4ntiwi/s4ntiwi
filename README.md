@@ -34,8 +34,6 @@ Nmap, Burp Suite, Metasploit, BloodHound, SQLmap, Hashcat, Hydra, John the Rippe
 
 📌 Puedes ver algunos de mis proyectos y laboratorios en mis repositorios.
 
-## 🛠️ Mis SkilLS
--------------------
 ### Programming languages:
 &emsp;
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
