@@ -23,12 +23,12 @@ Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconoc
 
 **Post-explotación y persistencia**: Movimientos laterales, escalación de privilegios y análisis de Active Directory.
 
-**Pruebas de seguridad web**: SQL Injection, XSS, CSRF y análisis de APIs.
+**Pruebas de seguridad web**: SQL Injection, XSS, CSRF y análisis de APIs y más..
 
 **OSINT y cracking**: Recolección de información y análisis de credenciales.
 
 🛠 Herramientas principales:
-Nmap, Burp Suite, Metasploit, BloodHound, SQLmap, Hashcat, Hydra, John the Ripper, Gobuster, Nikto, CrackMapExec, y más.
+Nmap, Burp Suite, Metasploit, BloodHound, SQLmap, Hashcat, Hydra, John the Ripper, Gobuster, Nikto, CrackMapExec, y más..
 
 🚀 Siempre aprendiendo y mejorando mis habilidades en plataformas como Hack The Box, TryHackMe y CTFs.
 
