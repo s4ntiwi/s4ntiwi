@@ -16,17 +16,17 @@
 👋 Sobre mí
 Soy un apasionado del pentesting y la ciberseguridad, con experiencia en reconocimiento, explotación de vulnerabilidades y post-explotación en entornos Windows, Linux y aplicaciones web.
 
-🔍 Especialidades:
+🔍 **Especialidades**:
 
-Reconocimiento y enumeración: Escaneo de redes, identificación de puertos y servicios expuestos.
+**Reconocimiento y enumeración**: Escaneo de redes, identificación de puertos y servicios expuestos.
 
-Explotación de vulnerabilidades: Uso de exploits públicos y desarrollo de scripts personalizados.
+**Explotación de vulnerabilidades**: Uso de exploits públicos y desarrollo de scripts personalizados.
 
-Post-explotación y persistencia: Movimientos laterales, escalación de privilegios y análisis de Active Directory.
+**Post-explotación y persistencia**: Movimientos laterales, escalación de privilegios y análisis de Active Directory.
 
-Pruebas de seguridad web: SQL Injection, XSS, CSRF y análisis de APIs.
+**Pruebas de seguridad web**: SQL Injection, XSS, CSRF y análisis de APIs.
 
-OSINT y cracking: Recolección de información y análisis de credenciales.
+**OSINT y cracking**: Recolección de información y análisis de credenciales.
 
 🛠 Herramientas principales:
 Nmap, Burp Suite, Metasploit, BloodHound, SQLmap, Hashcat, Hydra, John the Ripper, Gobuster, Nikto, CrackMapExec, y más.
