@@ -7,7 +7,7 @@
 
 - 🔭 Parte de mi tiempo la dedico a la creación de código para agilizar y automatizar tareas dedicadas a las pruebas de penetración.
 - 📚 Academicamente estoy estudiando una carrera universitaria en ciberseguridad para aumentar mis conocimientos en el campo y obtener un titulo formal.
-- 🌱 Poseo el certificado eJPT y para complementar mis estudios actualmente me estoy preparando para el PNTP **
+- 🌱 Poseo el certificado eJPT y para complementar mis estudios actualmente me estoy preparando para el PNTP
 -------------------------------------------------------------------
 👋 Sobre mí
 
